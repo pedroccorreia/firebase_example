@@ -1,3 +1,3 @@
-PROJECT_ID = 'firestore-example-322405'
-COLLECTION_NAME = u'forecastData'
-FILE_NAME = 'bom.csv'
+PROJECT_ID = '<Your Project>'
+COLLECTION_NAME = u'<Your Collection Name>'
+FILE_NAME = '<input file>'
